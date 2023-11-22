@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Darshan Patel]
 
-I'm a passionate [Your Profession/Field] based in [Your Location]. I love coding, designing, and building awesome things. Here you'll find a glimpse of what I do and the projects I'm working on.
+
+I'm a passionate [Software Engineer] based in [United Kingdom]. I love coding, designing, and building awesome things. Here you'll find a glimpse of what I do and the projects I'm working on.
+
 
 ## 🔧 Technologies & Tools
-
-<h3 align="left">Toolkits:</h3>
   <p align="center">
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> </a>
    &nbsp;&nbsp;&nbsp;
@@ -25,7 +25,6 @@ I'm a passionate [Your Profession/Field] based in [Your Location]. I love coding
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
     &nbsp;&nbsp;&nbsp;
   </p>
-
 <p align="center">
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/> </a>
 </p>
@@ -41,33 +40,37 @@ I'm a passionate [Your Profession/Field] based in [Your Location]. I love coding
 ![Project 1](project1-thumbnail.png)
 
 
-...
-
 ## 🌱 I'm currently learning
 
-- [Topic 1](link-to-learning1)
+- [Advance DSA](https://neetcode.io/courses/advanced-algorithms/0)
+- [Python](https://www.python.org/)
+- [Vue.js](https://vuejs.org/)
+- [React](https://react.dev/)
+
 
 ## 📫 Let's connect!
 
 - LinkedIn: [developerchild](https://www.linkedin.com/in/developerchild/)
 
+
 ## 💼 Skills
 
-- Ruby
-- Rails
+- Test
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=developerchild&label=Profile%20views&color=0e75b6&style=flat" alt="developerchild" /> </p>
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerchild&show_icons=true&hide=stars&count_private=true&hide_border=true&theme=radical)
 
 ## 📝 Latest Blog Posts
 
 - [Blog Post 1](link-to-blogpost1)
+
 
 ## 🤝 Let's collaborate!
 
 I'm always open to collaborating on projects and innovative ideas. If you have something in mind, feel free to reach out.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=developerchild.developerchild)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerchild&show_icons=true&hide=stars&count_private=true&hide_border=true&theme=radical)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=developerchild&label=Profile%20views&color=0e75b6&style=flat" alt="developerchild" /> </p>
