@@ -67,10 +67,10 @@ I'm a passionate [Software Engineer] based in [United Kingdom]. I love coding, d
 
 I'm always open to collaborating on projects and innovative ideas. If you have something in mind, feel free to reach out.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=developerchild.developerchild)
 
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerchild&show_icons=true&hide=stars&count_private=true&hide_border=true&theme=radical)
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=developerchild&label=Profile%20views&color=0e75b6&style=flat" alt="developerchild" /> </p>
