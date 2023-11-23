@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm [Darshan Patel]
+<h1 align="center">Hi there! 👋 I'm Darshan Patel</h1>
+<h3 align="center">Ruby on Rails Developer and Learing new stuff related to trending tech market 👨‍💻</h3>
 
-
-I'm a passionate [Software Engineer] based in [United Kingdom]. I love coding, designing, and building awesome things. Here you'll find a glimpse of what I do and the projects I'm working on.
+I'm a passionate Software Engineer based in United Kingdom. I love coding, designing, and building awesome things. Here you'll find a glimpse of what I do and the projects I'm working on.
 
 
 ## 🔧 Technologies & Tools
