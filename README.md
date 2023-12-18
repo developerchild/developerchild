@@ -30,6 +30,7 @@ I'm a passionate Software Engineer based in United Kingdom. I love coding, desig
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-%230075A8?style=for-the-badge&logo=mysql&logoColor=white" alt=""/> </a>
     &nbsp;&nbsp;&nbsp;
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQL-%23E434AA?style=for-the-badge&logo=graphql&logoColor=white" alt=""/> </a>
   </p>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
