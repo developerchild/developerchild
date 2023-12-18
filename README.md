@@ -18,6 +18,18 @@ I'm a passionate Software Engineer based in United Kingdom. I love coding, desig
     &nbsp;&nbsp;&nbsp;
   </p>
   <p align="center">
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt=""/> </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt=""/> </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white" alt=""/> </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-%230075A8?style=for-the-badge&logo=mysql&logoColor=white" alt=""/> </a>
+    &nbsp;&nbsp;&nbsp;
+  </p>
+  <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
@@ -31,22 +43,6 @@ I'm a passionate Software Engineer based in United Kingdom. I love coding, desig
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vuejs"/> </a>
     &nbsp;&nbsp;&nbsp;
   </p>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt=""/> </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt=""/> </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white" alt=""/> </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-%230075A8?style=for-the-badge&logo=mysql&logoColor=white" alt=""/> </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
-  &nbsp;&nbsp;&nbsp;
-</p>
 
 
 ## 🚀 Projects
