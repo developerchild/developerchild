@@ -31,6 +31,14 @@ I'm a passionate Software Engineer based in United Kingdom. I love coding, desig
     &nbsp;&nbsp;&nbsp;
   </p>
 <p align="center">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 
