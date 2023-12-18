@@ -15,6 +15,7 @@ I'm a passionate Software Engineer based in United Kingdom. I love coding, desig
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+    &nbsp;&nbsp;&nbsp;
   </p>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
@@ -33,7 +34,13 @@ I'm a passionate Software Engineer based in United Kingdom. I love coding, desig
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt=""/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt=""/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white" alt=""/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-%230075A8?style=for-the-badge&logo=mysql&logoColor=white" alt=""/> </a>
   &nbsp;&nbsp;&nbsp;
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
   &nbsp;&nbsp;&nbsp;
