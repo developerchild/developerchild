@@ -23,7 +23,7 @@ I'm a passionate Software Engineer based in United Kingdom. I love coding, desig
    &nbsp;&nbsp;&nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vuejs-20232A?style=for-the-badge&logo=vuejs&logoColor=#4FC08D" alt="Vuejs"/> </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vuejs-20232A?style=for-the-badge&logo=vuejs&logoColor=4FC08D" alt="Vuejs"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
     &nbsp;&nbsp;&nbsp;
